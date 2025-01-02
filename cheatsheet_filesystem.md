@@ -2,9 +2,9 @@
 cd                       go home
 cd ~
 cd /
-cd <filename>
+cd <folder name>
 cd ..
-cd *asd*                 (too many arguments if multiple found)
+cd *asd*                 (says "too many arguments" if multiple found)
 cd *asd
 cd ../*lab*
 
