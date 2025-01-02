@@ -47,6 +47,9 @@ Bash scripting
 [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)  
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
+
+# How to learn Linux: try out the command if you don't quite know what it means. Create test files, test folders, try it out!
+
 # Exploring the filesystem
 root: /  
 home: ~  
