@@ -19,7 +19,7 @@ List all files, including hidden ones. What do you see?
 # Opening files: Clone this repo!
 Clone this Github repository    
 ```
-git clone https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop/tree/main
+git clone https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop.git
 ```
 
 Go into the folder  
