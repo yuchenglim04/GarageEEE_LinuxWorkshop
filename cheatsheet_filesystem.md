@@ -1,5 +1,6 @@
 ```
 # is for comment. Don't copy anything after the #
+<> means variable. Replace with the name/string/number that you want
 ```
 
 
