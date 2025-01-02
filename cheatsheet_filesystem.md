@@ -19,6 +19,7 @@ cd ../*lab*
 ls                              # list of files/folders
 ls -a                           # list all, including hidden files
 ls -af                          # list all, with additional info
+ls | grep name                     #search
 ls | grep 'name'                     #search
 
 mkdir <name>                       # make directory/create folder
