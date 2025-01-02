@@ -50,11 +50,16 @@ Bash scripting
 # Exploring the filesystem
 root: /  
 home: ~  
+current directory:  .
+"previous" directory / one level up:  ..
+
 ```
+cd ..
+cd /                  # to root
 cd                    # to home
 cd ~                  # to home
-cd /                  # to root
 ```
+Go to home and list all files, including hidden files. There is a ```.bash_history``` file connected to ```history``` command.
 
 Try going to root, then display the folders and files there (try ls, then ls -a).
 
@@ -66,8 +71,6 @@ home
 mnt                    # external directories, like thumbdrive or the Windows drive
 var                    # your there's a folder 'log' that contains system logs
 ```
-
-Go to home and list all files, including hidden files. There is a ```.bash_history``` file connected to ```history``` command.
 
 # Establising workflows
 ## Installing packages
