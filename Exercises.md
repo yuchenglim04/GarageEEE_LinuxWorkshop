@@ -1,4 +1,4 @@
-You don't have to follow step by step. You get the gist of it, then you try out the commands in the cheatsheet. The goal is to try out the commands. If you want to try them in different ways, go ahead!
+You don't have to follow step by step. You get the gist of it, then you try out the commands in the cheatsheet. The goal is to try out all the commands. If you want to try them in different ways, go ahead!
 
 Actually, it is very time consuming to write these exercises for someone. Supposedly, the student comes up with his own exercises on the fly and try out different things. Anyway. Notice how this exercises isn't really step by step. Instead, there is a lot of exploration (you realize something is missing etc).... Essentially this is what goes on in our heads when we do Linux, but fairly subconsciously. Learning is nonlinear!
 
