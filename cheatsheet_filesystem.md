@@ -1,5 +1,5 @@
 ```
-# is for comment. Don't copy this
+# is for comment. Don't copy anything after the #
 ```
 
 
