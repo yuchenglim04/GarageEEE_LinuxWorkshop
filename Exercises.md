@@ -1,3 +1,6 @@
+You don't have to follow step by step. You get the gist of it, then you try out the commands in the cheatsheet. The goal is to try out the commands. If you want to try them in different ways, go ahead!
+
+
 # Exploring the Filesystem
 
 Where are you right now?  
