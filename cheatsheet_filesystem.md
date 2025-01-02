@@ -4,6 +4,8 @@
 
 
 ```
+pwd                        # path fo working directory/where are you?
+
 cd                          # go home
 cd ~                        # go home
 cd /                        # go root
@@ -27,23 +29,13 @@ cp <f1> <f2> <f3> <directory>      # copies multiple files into different folder
 cp <original> <path/new_name>      # copies into different folder, new name specified
 cp -t <target_directory> <original> # copies into "target" folder, same name as original
 
-mv <file> <destination>
-mv <old name> <new name>
+mv <old name> <new name>             # rename
+mv <file> <destination>              # move the differen folder
 
-rm <f1> <f2>
-rm -i <f1>                         #prompts before removal
+rm <f1> <f2>                        # remove multiple files at once
+rm -i <f1>                         # prompts before removal
 rm -r <directory>                  #remove non-empty directories
 rm -rf <directory>                 #remove non-empty directories with protected files
 
 chmod -c ug+wx <filename>                                  #u g o a   + - =   r w x
-
-
-
-env
-env PATH
-env HOME
-
-pwd
-
-df
 ```
