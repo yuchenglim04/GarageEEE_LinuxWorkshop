@@ -16,7 +16,7 @@ list files.
 List all files, including hidden ones. What do you see?  
 
 
-# Opening files
+# Opening files: Clone this repo!
 Clone this Github repository    
 Go into the folder  
 cat a file you like (perhaps this cheatsheet)  
@@ -26,9 +26,6 @@ blah
 blah  
 blah  
 
-# Installing packages 
-
-# Compiling C, C++ code
 
 # Automation: super basic scripting
 
@@ -43,3 +40,9 @@ Wait, you need to change mode first!
 ```
 chmod blah blah blah
 ```
+
+# Installing packages 
+
+# Compiling C, C++ code
+
+
