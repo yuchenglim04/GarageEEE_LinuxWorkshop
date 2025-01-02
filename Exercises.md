@@ -18,6 +18,10 @@ List all files, including hidden ones. What do you see?
 
 # Opening files: Clone this repo!
 Clone this Github repository    
+```
+git clone https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop/tree/main
+```
+
 Go into the folder  
 cat a file you like (perhaps this cheatsheet)  
 tail  
