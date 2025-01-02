@@ -11,3 +11,16 @@ From root, go to home.
 Go home  
 list files.  
 List all files, including hidden ones. What do you see?  
+
+
+# Opening files
+Clone this Github repository    
+Go into the folder  
+cat a file you like  
+tail  
+
+blah  
+blah  
+blah  
+
+
