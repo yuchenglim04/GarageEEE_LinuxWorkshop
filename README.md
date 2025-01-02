@@ -48,7 +48,7 @@ Bash scripting
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 
-# How to learn Linux: try out the command if you don't quite know what it means. Create test files, test folders, try it out!
+# How to learn Linux: try out the command if you don't quite know what it means. Create test files, test folders, try it out! Just be careful not to delete important files. Always double check!
 
 # Exploring the filesystem
 root: /  
