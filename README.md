@@ -59,7 +59,20 @@ cd /                  # to root
 cd                    # to home
 cd ~                  # to home
 ```
-Go to home and list all files, including hidden files. There is a ```.bash_history``` file connected to ```history``` command.
+Go to home and list files, then list all files including hidden files. What do you see?
+```
+ls
+ls -a
+ls -al
+```
+
+We see several interesting 'files'
+```
+.
+..
+.bash_history
+
+```
 
 Try going to root, then display the folders and files there (try ls, then ls -a).
 
