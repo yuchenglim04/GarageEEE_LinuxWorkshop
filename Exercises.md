@@ -32,18 +32,13 @@ blah
 
 
 # Automation: super basic scripting
+go to the script folder and list all files.  
+cat the script file  
+try to run the script file. Does it work?  
+Make the script file executable. List all files again, and see the color change.  
+Run again.  
 
-to run the script, 
-
-```
-./name_of_script
-```
-
-Wait, you need to change mode first!
-
-```
-chmod blah blah blah
-```
+P.S. what does the script actually do? Verify that it works
 
 # Installing packages 
 
