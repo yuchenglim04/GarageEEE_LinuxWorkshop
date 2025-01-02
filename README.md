@@ -87,8 +87,8 @@ var                    # your there's a folder 'log' that contains system logs
 
 # Establising workflows
 ## downloading from github
-## Installing packages
 ## compiling code (C, C++)
+## Installing packages
 ## auto backup
 ## auto upload to Github
 ## mounting, unmounting devices
