@@ -16,7 +16,7 @@ List all files, including hidden ones. What do you see?
 # Opening files
 Clone this Github repository    
 Go into the folder  
-cat a file you like  
+cat a file you like (perhaps this cheatsheet)  
 tail  
 
 blah  
