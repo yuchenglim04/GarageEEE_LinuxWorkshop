@@ -29,3 +29,17 @@ blah
 # Installing packages 
 
 # Compiling C, C++ code
+
+# Automation: super basic scripting
+
+to run the script, 
+
+```
+./name_of_script
+```
+
+Wait, you need to change mode first!
+
+```
+chmod blah blah blah
+```
