@@ -41,5 +41,14 @@ rm -rf <directory>                 # remove non-empty directories with protected
 
 vi filename                        # create a text file
 
+
+cat filename                      # print out whole file in terminal
+head filename                      # print out first few lines
+tail filename                      # print out last few lines
+tail -5 filename                    # print out last 5 lines
+more filename                      # includes some user interface
+less filename                      # includes some user interface
+
 chmod -c ug+wx <filename>                                  #u g o a   + - =   r w x
+
 ```
