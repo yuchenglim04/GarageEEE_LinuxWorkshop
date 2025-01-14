@@ -53,6 +53,26 @@ ls grep
 ls | grep grep
 ```
 
+Go back to home. Try to create and remove files. Always verify after each step.
+```
+vi iLikeKen
+!wq
+ls
+
+mkdir YiRui_folder
+ls
+
+rmdir YiRui_folder
+ls
+
+rm iLikeKen
+ls
+```
+
+
+
+```
+```
 
 
 
