@@ -36,8 +36,10 @@ mv <file> <destination>              # move the differen folder
 
 rm <f1> <f2>                        # remove multiple files at once
 rm -i <f1>                         # prompts before removal
-rm -r <directory>                  #remove non-empty directories
-rm -rf <directory>                 #remove non-empty directories with protected files
+rm -r <directory>                  # remove non-empty directories
+rm -rf <directory>                 # remove non-empty directories with protected files
+
+vi filename                        # create a text file
 
 chmod -c ug+wx <filename>                                  #u g o a   + - =   r w x
 ```
