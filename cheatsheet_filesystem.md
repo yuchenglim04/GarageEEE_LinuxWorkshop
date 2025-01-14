@@ -52,3 +52,13 @@ less filename                      # includes some user interface
 chmod -c ug+wx <filename>                                  #u g o a   + - =   r w x
 
 ```
+
+
+
+advanced
+```
+top                      # like programme manager
+df                      # 
+df -h                    
+gcc filename            # compile your C file hahahaha
+```
