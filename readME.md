@@ -25,13 +25,34 @@ Clone this repository
 ```
 git clone https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop.git
 ```
-Verify cloning and check contents.
+Verify cloning, check contents, then print out the cheatsheet. Good luck! 
 ```
 ls
 cd Garage*
 ls
-cat 
+cat *filesystem*
 ```
+
+Familiarising yourself with the linux subsystem, starting from home
+```
+cd
+ls
+ls -a
+ls -af
+ls -l
+l-al
+```
+
+Go to root
+```
+cd /
+ls
+cd bin
+ls
+ls grep
+ls | grep grep
+```
+
 
 
 
