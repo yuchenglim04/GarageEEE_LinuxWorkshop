@@ -2,7 +2,7 @@ How to use this guide:
 
 
 [Install WSL and run.](https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop_test/blob/main/Install_wsl.md)  
-[Cheatsheet](https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop_test/blob/main/cheatsheet_filesystem.md)
+[Cheatsheet with explanations for all commands](https://github.com/yuchenglim04/GarageEEE_LinuxWorkshop_test/blob/main/cheatsheet_filesystem.md)
 
 Always verify.
 Verify creation or removal of files or directories:
