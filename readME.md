@@ -33,7 +33,7 @@ ls
 cat *filesystem*
 ```
 
-Familiarising yourself with the linux subsystem, starting from home
+Familiarising yourself with the linux subsystem, starting from home. Notice the hidden files (those that start with dot, the color coding for folders vs files)
 ```
 cd
 ls
