@@ -71,7 +71,7 @@ ls
 
 
 
-From now on, try every command in the cheatsheet. Just be careful whether it applies to files or folders.
+From now on, try every command in the cheatsheet. Just be careful whether it applies to files or folders. hahahaha. There's no better way to learn. Anyway.
 
 
 
