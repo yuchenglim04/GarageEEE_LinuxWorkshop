@@ -7,6 +7,7 @@ There are many cheat sheets online. But always try to make one for yourself, tai
 Also, make your own help files or tutorials for yourself. Different sources give different examples. Some might be inspirational to you, but dull to someone else. So copy and paste links, examples, tips and tricks into your very own 'tutorial'. Someday you might share it out. But perhaps there's no need to, given the sheer number of very useful ones out there. Anyway, make your own notes.
 
 # How to use this repository:
+- just install wsl..... like hell yeah.... 
 - Open the cheat sheets, copy, paste etc.
 - Open the exercise file and read the instructions. Try to follow.
 - read this file you are reading. This is the maintext with explanations.
