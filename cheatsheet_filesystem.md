@@ -37,7 +37,7 @@ mv <file> <destination>              # move the differen folder
 rm <f1> <f2>                        # remove multiple files at once
 rm -i <f1>                         # prompts before removal
 rm -r <directory>                  # remove non-empty directories
-rm -rf <directory>                 # remove non-empty directories with protected files
+rm -rf <directory>                 # remove non-empty directories with protected files, especially .git folders
 
 vi filename                        # create a text file
 
