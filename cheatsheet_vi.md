@@ -4,7 +4,7 @@ esc           # command mode
 ```
 
 ## Command mode
-## navigation
+### navigation
 ```
 h          # <
 j          # down
