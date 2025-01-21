@@ -3,8 +3,8 @@ i             # insert 'edit mode'
 esc           # command mode
 ```
 
-##Command mode
-##navigation
+## Command mode
+## navigation
 ```
 h          # <
 j          # down
