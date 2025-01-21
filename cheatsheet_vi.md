@@ -16,22 +16,23 @@ h          # <
 j          # down
 k          #^
 l          #>
+Backspace    # move backward one character
 0            # move to beginning of line
 $            # move to end of line
+enter        # move to beginning of next line
 W            # move forward one space-delimited word 
 w            # move forward one word
 B            # move backward one space-delimited word
 b            # move backward one word
-Backspace    # move backward one character
-enter        # move to beginning of next line
+G          	  # go to last line of file
+nG            # nth line
 ```
 
 ### Searching
 ```
 ?<your search pattern>            # search lines before current line, press enter
 \<your search pattern>            # search lines after current line, press enter
-n                              # after pressing enter, to move to next line containing search pattern
-
+n                              # after pressing enter, to move to next line containing search pattern, i.e. repeat last search  
 ```
 
 ### Paging
@@ -44,6 +45,10 @@ Ctrl d        # move down half a page
 
 ### dangerous
 ```
+x  	        # delete single character
+dd           # delete line
+dw            # delete word, delete not backspace! (after cursor)
+D            # delete from cursor to end of line
 u            # undo
 Ctrl r        # redo
 ```
