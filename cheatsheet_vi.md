@@ -1,8 +1,11 @@
+```
 i             # insert 'edit mode'
 esc           # command mode
+```
 
 ##Command mode
 ##navigation
+```
 h          # <
 j          # down
 k          #^
@@ -14,4 +17,4 @@ w            # move forward one word
 B            # move backward one space-delimited word
 b            # move backward one word
 Backspace    # move backward one character
-
+```
