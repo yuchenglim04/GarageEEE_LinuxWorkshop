@@ -26,6 +26,14 @@ Backspace    # move backward one character
 enter        # move to beginning of next line
 ```
 
+### Searching
+```
+?<your search pattern>            # search lines before current line, press enter
+\<your search pattern>            # search lines after current line, press enter
+n                              # after pressing enter, to move to next line containing search pattern
+
+```
+
 ### Paging
 ```
 Ctrl b        # back one screen of text
